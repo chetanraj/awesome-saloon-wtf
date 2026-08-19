@@ -1,6 +1,5 @@
 # Awesome Saloon.wtf
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
@@ -41,11 +40,11 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 
 ## 💈 Barbershop / Saloon / Cutting Shop
 
-- [The Nostalgia](https://the-nostalgia.vercel.app/) - Clean barbershop nostalgia player.
+- [The Nostalgia](https://nostalgiahits.in/) - Clean barbershop nostalgia player.
 - [Cutting Shop](https://www.cuttingshop.lol) - Telugu cutting shop vibes (₹20 kraafu, hero posters, 90s–2000s bangers).
 - [Telugu Nostalgia Jnapakalu](https://telugu-nostalgia-jnapakalu.netlify.app/) - Fond memories of old Telugu cutting shops.
-- [Telugu Saloon](http://telugusaloon.tech) - Telugu saloon experience.
-- [Parlour.wtf](http://parlour.wtf) - Parlour / saloon nostalgia.
+- [Telugu Saloon](https://www.telugusaloon.tech/) - Telugu saloon experience.
+- [Parlour.wtf](https://parlour.wtf) - Parlour / saloon nostalgia.
 - [Namma Saloon](https://www.nammasaloon.wtf/) - South Indian (especially Kannada/Tamil) saloon energy.
 - [Nostalgia by Nishant](https://nostalgia.iamnishant.in) - Personal take on the classic barbershop playlist.
 
@@ -57,7 +56,7 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Horn OK Please](https://hornokplease.xyz/) - Classic highway truck bangers.
 - [Gedi Route](https://gedi-route.vercel.app/) - Haryanvi-Punjabi night drive / gedi culture.
 - [Indian Truck Bangers](https://www.indiantruckbangers.fun/) - Loud, soulful songs from Indian truck cabins.
-- [Truck Playlist](https://truckplaylist.wtf) - Dedicated truck highway playlist.
+- [Truck Playlist](https://www.truckplaylist.wtf/) - Dedicated truck highway playlist.
 - [Musafir](https://musafir.vercel.app/) - Drive a truck through the 90s (WASD + horn).
 
 ---
@@ -68,7 +67,7 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Private Bus](https://privatebus.online/) - Private bus playlist vibes.
 - [Safar-e-UP](https://safar-e-up.vercel.app) - Uttar Pradesh Roadways bus journey with pure 90s songs.
 - [Roadways.wtf](https://roadways.wtf/) - Himachal / pahadi bus winding through the mountains.
-- [Haryana Roadways](https://haryanaroadways.wtf) - Dusty Haryana Roadways highway at dusk (window seat free).
+- [Haryana Roadways](https://www.haryanaroadways.wtf/) - Dusty Haryana Roadways highway at dusk (window seat free).
 - [Town Bus](https://town-bus.vercel.app/) - Tamil Nadu town bus music (the exact songs while holding the hanging rod).
 - [UK Roadways](https://ukroadways.vercel.app/) - Uttarakhand Roadways pahadi bangers.
 
@@ -99,15 +98,12 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 ## 🌏 Regional
 
 **Telugu / Tamil / South**
-- [Cutting Shop](https://www.cuttingshop.lol) - Telugu barbershop.
-- [Telugu Nostalgia Jnapakalu](https://telugu-nostalgia-jnapakalu.netlify.app/)
 - [Then Isai](https://thenisai.website) - Old Tamil melodies for a quiet Chennai evening.
 - [Kudimagan](https://kudimagan.vercel.app/) - Tamil TASMAC / soup songs and 2 AM heartbreak tracks.
 - [Tamil FM](https://tamilfm.co) - Tamil music by mood (rain, travel, tea-kadai, item songs…).
 - [Telugu Mass](https://telugu-mass.vercel.app/) - Telugu mass & Tractor Anna energy.
 
 **Haryanvi / Punjabi / North**
-- [Gedi Route](https://gedi-route.vercel.app/) - Haryanvi-Punjabi gedi culture.
 - [Pind Radio](https://pind-radio.vercel.app/) - Interactive browser dhol.
 - [Pind Nanka](https://pind-nanka.vercel.app/) - 3D Punjab pind field experience.
 
@@ -128,7 +124,6 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Fucche](https://fucche.com) - Playful take on the trend.
 - [Nostalgic TV](https://nostalgictv.vercel.app/) - TV / childhood screen nostalgia.
 - [Gaun Ki Khud](https://gaun-ki-khud.vercel.app) - Village / gaon vibes.
-- [Saawan Aawan Keh Gayo](https://saawan-aawan-keh-gayo.netlify.app/) - Monsoon / seasonal nostalgia.
 - [Vibe Music](https://vibemusic.space) - Atmospheric player.
 - [Rasta Audio](https://rasta-audio.vercel.app/) - Street & travel energy with multiple modes.
 - [90s Childhood](https://90schilhood.netlify.app/) - Pure 90s childhood soundtrack.
@@ -137,7 +132,7 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Prabhat](https://prabhat-rosy.vercel.app/) - Morning bhajans that used to wake the whole house.
 - [Monsoon Melodies](https://monsoon-melodies.vercel.app/) - Rainy day / monsoon player.
 - [Rearview](https://rearview-jade.vercel.app/) - School & college road-trip Bollywood.
-- [Mehfil](https://mehfil-one.vercel.app) - Quiet qawwali / ghazal room (Jagjit, Mehdi Hassan…).
+- [Mehfil](https://www.mehfilroom.online/) - Quiet qawwali / ghazal room (Jagjit, Mehdi Hassan…).
 - [Zindagi.wtf](https://zindagi.wtf) - Songs that hit after something real ends.
 - [Coders Baithak](https://coders-baithak.vercel.app/) - 2 AM coding + chai + Hindi songs.
 
