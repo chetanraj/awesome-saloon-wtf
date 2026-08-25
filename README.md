@@ -24,6 +24,7 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [🚂 Train / Railway](#-train--railway)
 - [☕ Dhaba / Chai / Tapri](#-dhaba--chai--tapri)
 - [🎉 Wedding / Baraat / DJ](#-wedding--baraat--dj)
+- [🙏 Devotional / Bhakti](#-devotional--bhakti)
 - [🌏 Regional](#-regional)
 - [📺 Other Scenes & Special](#-other-scenes--special)
 - [🔗 Portals & Aggregators](#-portals--aggregators)
@@ -121,6 +122,16 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 
 ---
 
+## 🙏 Devotional / Bhakti
+
+- [Prabhat](https://prabhat-rosy.vercel.app/) - Morning bhajans that used to wake the whole house.
+- [Mandir FM](https://mandir-fm.vercel.app/) - Quiet digital temple / mandir soundtrack.
+- [Mandir Radio](https://mandir-radio.vercel.app/) - Ghar ka mandir at aarti time — the scene changes with the real hour, and festivals arrive on their own. Created by [Rohit Wadhwa](https://x.com/RohitWadhwa52).
+
+> Festival and language-specific devotional sites stay under [🌏 Regional](#-regional), where their region is the point: [Pandal Radio](https://pandal-radio.vercel.app/) (Durga Pujo, Bengal), [Chhath Geet](https://chhath-geet.netlify.app/) (Bihar), and [Garba.wtf](https://www.garba.wtf/) / [Rang Morla](https://rang-morla.vercel.app/) (Gujarat).
+
+---
+
 ## 🌏 Regional
 
 **Telugu / Tamil / South**
@@ -166,7 +177,6 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [90s Childhood](https://90schilhood.netlify.app/) - Pure 90s childhood soundtrack.
 - [Chhota Bandar](https://chhotabandar.com/) - Fun, light-hearted take.
 - [Nani Ka Ghar](https://nani-ka-ghar.vercel.app/) - Grandparents’ house radio nostalgia.
-- [Prabhat](https://prabhat-rosy.vercel.app/) - Morning bhajans that used to wake the whole house.
 - [Monsoon Melodies](https://monsoon-melodies.vercel.app/) - Rainy day / monsoon player.
 - [Rearview](https://rearview-jade.vercel.app/) - School & college road-trip Bollywood.
 - [Mehfil](https://www.mehfilroom.online/) - Quiet qawwali / ghazal room (Jagjit, Mehdi Hassan…).
@@ -175,8 +185,6 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Aakhri Jaam](https://aakhri-jaam.vercel.app/) - Bollywood night songs when the night is ending.
 - [Shraab](https://shraab.vercel.app/) - 90s drinking bangers for late-night sessions.
 - [Majdoor](https://majdoor-ashy.vercel.app/) - Dihari, chai, bidi, baithak — music for a working day.
-- [Mandir FM](https://mandir-fm.vercel.app/) - Quiet digital temple / mandir soundtrack.
-- [Mandir Radio](https://mandir-radio.vercel.app/) - Ghar ka mandir at aarti time — the scene changes with the real hour, and festivals arrive on their own. Created by [Rohit Wadhwa](https://x.com/RohitWadhwa52).
 - [Swatantrata Diwas](https://swatantrata-diwas.vercel.app/) - 90s school-assembly desh-bhakti playlist.
 - [Window Seat Live](https://windowseatlive.vercel.app/) - Headphones, window seat, lost-in-thoughts player.
 - [Places Have Sound](https://places-have-sound.vercel.app/) - Tactile world map of local sound.
