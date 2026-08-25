@@ -176,6 +176,7 @@ Within days it crossed a million visits and spawned hundreds of scene-based musi
 - [Shraab](https://shraab.vercel.app/) - 90s drinking bangers for late-night sessions.
 - [Majdoor](https://majdoor-ashy.vercel.app/) - Dihari, chai, bidi, baithak — music for a working day.
 - [Mandir FM](https://mandir-fm.vercel.app/) - Quiet digital temple / mandir soundtrack.
+- [Mandir Radio](https://mandir-radio.vercel.app/) - Ghar ka mandir at aarti time — the scene changes with the real hour, and festivals arrive on their own. Created by [Rohit Wadhwa](https://x.com/RohitWadhwa52).
 - [Swatantrata Diwas](https://swatantrata-diwas.vercel.app/) - 90s school-assembly desh-bhakti playlist.
 - [Window Seat Live](https://windowseatlive.vercel.app/) - Headphones, window seat, lost-in-thoughts player.
 - [Places Have Sound](https://places-have-sound.vercel.app/) - Tactile world map of local sound.
